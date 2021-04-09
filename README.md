@@ -1,8 +1,8 @@
 # Spotify-Clone
 
 
-index.html - Abdulkadir salad
-albumpage.html - Leonardi Vezzati
-artistpage.html - Mohammadamin Sajedian
+index.html - Abdulkadir salad <br>
+albumpage.html - Leonardi Vezzati <br>
+artistpage.html - Mohammadamin Sajedian <br>
 login.html - Carl Dawkins
  
